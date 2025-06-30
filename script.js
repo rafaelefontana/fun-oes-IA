@@ -86,7 +86,7 @@ function mostraPergunta() {
     caixaPerguntas.textContent = perguntaAtual.enunciado;
     caixaAlternativas.textContent = ;
     mostraAlternativas(a) 
-b) Júpiter);
+
 }
 
 function mostraAlternativas(){
