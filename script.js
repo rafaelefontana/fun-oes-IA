@@ -65,7 +65,7 @@ const perguntas = [
                 texto: "Quando a Lua passa entre a Terra e o Sol, bloqueando a luz solar.",
                 afirmacao: "genialidade."
             },
-            {
+            
                 texto: "Quando a Lua entra na sombra da Terra. Quando a Lua entra na sombra da Terra. ",
                 afirmacao: "incrivel"
         ]
